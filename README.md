@@ -11,5 +11,5 @@
 
 # About ME 💬 :
 
-### - I'm 21 years old Python Developer and undergraduate at IIT Roorkee from India.
+### - I'm 22 years old typesript/graphql/reactjs/nextjs lover from India.
 
