@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=agajareiitr&label=view+count&style=plastic)
+![](https://komarev.com/ghpvc/?username=cloakzy1&label=view+count&style=plastic)
 
 # Konichiwa, Welcome <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
