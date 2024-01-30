@@ -11,5 +11,5 @@
 
 # About ME 💬 :
 
-### - I'm 22 years old typesript/graphql/reactjs/nextjs lover from India.
+### - I'm 24 years old reactjs/nextjs/nodejs/expressjs/postgresql enthusiastic from India.
 
